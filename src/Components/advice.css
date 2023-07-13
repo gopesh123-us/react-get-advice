@@ -1,0 +1,11 @@
+.advice {
+  margin-top: 10px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5em;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+  background-image: linear-gradient(to right, darkred, red);
+  width: fit-content;
+}

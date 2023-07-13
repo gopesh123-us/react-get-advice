@@ -1,0 +1,14 @@
+.button {
+  margin-top: 10px;
+  font-size: 1.3em;
+  padding: 3px;
+  border-radius: 5px;
+  background-image: linear-gradient(to right, darkgray, gray);
+  color: white;
+}
+
+.counter-text {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.2em;
+  color: gray;
+}
